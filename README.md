@@ -50,6 +50,7 @@ python indextts/infer.py
 
 #### 1. 音频合成效果
 
+
 |                        合成文本                              | 合成音频                                           |
 | ------------------------------------------------------------ | -------------------------------------------------- |
 | 老宅的钟表停在午夜三点，灰尘中浮现一串陌生脚印。侦探蹲下身，发现地板缝隙里藏着一枚带血的戒指。 | [kaishu_cn_1.wav](https://github.com/user-attachments/files/22336613/kaishu_cn_1.wav)|
@@ -61,7 +62,7 @@ python indextts/infer.py
 | As research continued, the protective effect of fluoride against dental decay was demonstrated. |     [kaishu_en_2.wav](https://github.com/user-attachments/files/22336638/kaishu_en_2.wav)|
 
 #### 2. 模型精度测试
-
+测试集详情，可参考: [2025 主流 TTS 模型横评：谁才是最佳语音合成方案？](https://mp.weixin.qq.com/s/5z_aRKQG3OIv7fnSdxegqQ)
 <img width="1182" height="261" alt="image" src="https://github.com/user-attachments/assets/fb86938d-95d9-4b10-9588-2de1e43b51d1" />
 
 ### 感谢
