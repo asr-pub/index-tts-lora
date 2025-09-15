@@ -42,15 +42,11 @@ python train.py
 ```
 python indextts/infer.py
 ```
-
 ### 微调结果
 
 本次实验数据来自 **凯叔讲故事** 的纯中文音频，总时长约 **30 分钟**，共 **270 条音频**。数据划分为 **训练集 244 条**、**验证集 26 条**。需要注意的是，文本是通过 ASR 和标点模型自动生成的，未经过人工校对，因此存在一定错误率。
 
 训练样音如下，`他上了马车，来到了皇宫之中。`：[kaishu_train_01.wav](https://github.com/user-attachments/files/22336605/kaishu_train_01.wav)
-
-
-
 
 #### 1. 音频合成效果
 
@@ -64,11 +60,9 @@ python indextts/infer.py
 | A thin man lies against the side of the street with his shirt and a shoe off and bags nearby. |  [kaishu_en_1.wav](https://github.com/user-attachments/files/22336636/kaishu_en_1.wav)|
 | As research continued, the protective effect of fluoride against dental decay was demonstrated. |     [kaishu_en_2.wav](https://github.com/user-attachments/files/22336638/kaishu_en_2.wav)|
 
-
-
-
-
 #### 2. 模型精度测试
+
+<img width="1182" height="261" alt="image" src="https://github.com/user-attachments/assets/fb86938d-95d9-4b10-9588-2de1e43b51d1" />
 
 ### 感谢
 
