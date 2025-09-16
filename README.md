@@ -46,7 +46,8 @@ python indextts/infer.py
 
 本次实验数据来自 **凯叔讲故事** 的纯中文音频，总时长约 **30 分钟**，共 **270 条音频**。数据划分为 **训练集 244 条**、**验证集 26 条**。需要注意的是，文本是通过 ASR 和标点模型自动生成的，未经过人工校对，因此存在一定错误率。
 
-训练样音如下，`他上了马车，来到了皇宫之中。`：[kaishu_train_01.wav](https://github.com/user-attachments/files/22336605/kaishu_train_01.wav)
+训练样音如下，`他上了马车，来到了皇宫之中。`：[kaishu_train_01.wav](https://github.com/user-attachments/files/22354621/kaishu_train_01.wav)
+
 
 #### 1. 音频合成效果
 
