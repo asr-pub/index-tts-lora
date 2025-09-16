@@ -54,13 +54,13 @@ python indextts/infer.py
 
 |                        合成文本                              | 合成音频                                           |
 | ------------------------------------------------------------ | -------------------------------------------------- |
-| 老宅的钟表停在午夜三点，灰尘中浮现一串陌生脚印。侦探蹲下身，发现地板缝隙里藏着一枚带血的戒指。 | [kaishu_cn_1.wav](https://github.com/user-attachments/files/22336613/kaishu_cn_1.wav)|
-| 月光下，南瓜突然长出笑脸，藤蔓扭动着推开花园栅栏。小女孩踮起脚，听见蘑菇在哼唱古老的摇篮曲。 |     [kaishu_cn_2.wav](https://github.com/user-attachments/files/22336616/kaishu_cn_2.wav)|
-| 那么Java里面中级还要学，M以及到外部前端的应用系统开发，要学到Java Script的数据库，要学做动态的网站。 |     [kaishu_cn_en_mix_1.wav](https://github.com/user-attachments/files/22336625/kaishu_cn_en_mix_1.wav) |
-| 这份 financial report 详细分析了公司在过去一个季度的 revenue performance 和 expenditure trends。 |  [kaishu_cn_en_mix_2.wav](https://github.com/user-attachments/files/22336633/kaishu_cn_en_mix_2.wav) |
-| 上山下山上一山，下一山，跑了三里三米三，登了一座大高山，山高海拔三百三。上了山，大声喊：我比山高三尺三。 |   [kaishu_raokouling.wav](https://github.com/user-attachments/files/22336634/kaishu_raokouling.wav)  |
-| A thin man lies against the side of the street with his shirt and a shoe off and bags nearby. |  [kaishu_en_1.wav](https://github.com/user-attachments/files/22336636/kaishu_en_1.wav)|
-| As research continued, the protective effect of fluoride against dental decay was demonstrated. |     [kaishu_en_2.wav](https://github.com/user-attachments/files/22336638/kaishu_en_2.wav)|
+| 老宅的钟表停在午夜三点，灰尘中浮现一串陌生脚印。侦探蹲下身，发现地板缝隙里藏着一枚带血的戒指。 |  [kaishu_cn_1.wav](https://github.com/user-attachments/files/22354649/kaishu_cn_1.wav) |
+| 月光下，南瓜突然长出笑脸，藤蔓扭动着推开花园栅栏。小女孩踮起脚，听见蘑菇在哼唱古老的摇篮曲。 | [kaishu_cn_2.wav](https://github.com/user-attachments/files/22354652/kaishu_cn_2.wav) |
+| 那么Java里面中级还要学，M以及到外部前端的应用系统开发，要学到Java Script的数据库，要学做动态的网站。 | [kaishu_cn_en_mix_1.wav](https://github.com/user-attachments/files/22354654/kaishu_cn_en_mix_1.wav) |
+| 这份 financial report 详细分析了公司在过去一个季度的 revenue performance 和 expenditure trends。 | [kaishu_cn_en_mix_2.wav](https://github.com/user-attachments/files/22354656/kaishu_cn_en_mix_2.wav) |
+| 上山下山上一山，下一山，跑了三里三米三，登了一座大高山，山高海拔三百三。上了山，大声喊：我比山高三尺三。 | [kaishu_raokouling.wav](https://github.com/user-attachments/files/22354658/kaishu_raokouling.wav) |
+| A thin man lies against the side of the street with his shirt and a shoe off and bags nearby. | [kaishu_en_1.wav](https://github.com/user-attachments/files/22354659/kaishu_en_1.wav)  |
+| As research continued, the protective effect of fluoride against dental decay was demonstrated. |  [kaishu_en_2.wav](https://github.com/user-attachments/files/22354661/kaishu_en_2.wav) |
 
 #### 2. 模型精度测试
 测试集详情，可参考: [2025 主流 TTS 模型横评：谁才是最佳语音合成方案？](https://mp.weixin.qq.com/s/5z_aRKQG3OIv7fnSdxegqQ)
