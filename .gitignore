@@ -15,6 +15,5 @@ build/
 .venv
 checkpoints/
 result/
-finetune_models/
 finetune_data/
 logs/
