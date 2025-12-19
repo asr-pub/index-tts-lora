@@ -28,6 +28,7 @@
       </div>
     </div>
   </details>
+
 </div>
 
 # index-tts-lora
@@ -101,7 +102,6 @@ Example training sample, `他上了马车，来到了皇宫之中。`：[kaishu_
 | As research continued, the protective effect of fluoride against dental decay was demonstrated. | [kaishu_en_2.wav](https://github.com/user-attachments/files/22354661/kaishu_en_2.wav) |
 
 #### 2. Model Evaluation
-For details of the evaluation set, see: [2025 Benchmark of Mainstream TTS Models: Who Is the Best Voice Synthesis Solution?](https://mp.weixin.qq.com/s/5z_aRKQG3OIv7fnSdxegqQ)
 <img width="1182" height="261" alt="image" src="https://github.com/user-attachments/assets/fb86938d-95d9-4b10-9588-2de1e43b51d1" />
 
 ### Acknowledgements
